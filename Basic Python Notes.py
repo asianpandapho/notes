@@ -18,3 +18,5 @@ c = 7
 print(b+c)
 print (-1 - (-5))
 
+rekt = ("Hello World")
+print (rekt)
